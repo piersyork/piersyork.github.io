@@ -30,7 +30,7 @@ twitter_username: piers_york
 github_username:  piersy123
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
