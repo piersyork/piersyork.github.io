@@ -2,10 +2,6 @@
 title: "The Positivity of Ministers Tweets"
 layout: default
 permalink: blogs/tweet_sentiment
-output: 
-  html_document:
-    code_folding: hide
-
 ---
 
 <style type="text/css">
