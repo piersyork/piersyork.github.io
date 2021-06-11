@@ -26,7 +26,7 @@ body {
 | Tory   | NA       |  4467 | 19.10 |
 
 
-![](/_posts/twitter_analysis_files/figure-markdown_github/b_k_plot-1.png)
+![]({{site.url}}/_posts/twitter_analysis_files/figure-markdown_github/b_k_plot-1.png)
 
 Boris Johnson is consitently more positive than Keir Starmer. But this
 is really to be expected. In some ways Boris Johnson uses twitter in a
@@ -41,7 +41,7 @@ Comparing main ministerial departments to their shadow counterparts
 
 
 
-![](/_posts/twitter_analysis_files/figure-markdown_github/facet_plot-1.png)
+![]({{site.url}}/_posts/twitter_analysis_files/figure-markdown_github/facet_plot-1.png)
 
 
 
