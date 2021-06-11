@@ -15,6 +15,7 @@ body {
 }
 </style>
 
+![party mood]({{ site.url }}/img/galleries/gallery-twitter-analysis/party-mood.png)
 
 | party  | positive |     n |  prop |
 |:-------|:---------|------:|------:|
@@ -26,9 +27,9 @@ body {
 | Tory   | NA       |  4467 | 19.10 |
 
 
-![party mood]({{ site.url }}/img/galleries/gallery-twitter-analysis/party-mood.png)
 
-Boris Johnson is consitently more positive than Keir Starmer. But this
+
+The Conservative Government ministers are consistently more positive than there . But this
 is really to be expected. In some ways Boris Johnson uses twitter in a
 different manner to Keir Starmer. Boris generally uses it in the context
 of his position in the Government, reporting the actions of his
