@@ -29,6 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: piers_york
 github_username:  piersyork
 
+# minimal mistakes styling
+minimal_mistakes_skin: "air"
+
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.23.0
 plugins:
