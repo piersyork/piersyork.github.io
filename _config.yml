@@ -15,14 +15,14 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
-# tumblr: "#"
-# pinterest: "#"
-# instagram: "#"
-# twitter: "#"
-# facebook: "#"
-# youtube: "#"
-# vimeo: "#"
-# soundcloud: "#"
+tumblr: "#"
+pinterest: "#"
+instagram: "#"
+twitter: "#"
+facebook: "#"
+youtube: "#"
+vimeo: "#"
+soundcloud: "#"
 
 encoding: utf-8
 defaults:
