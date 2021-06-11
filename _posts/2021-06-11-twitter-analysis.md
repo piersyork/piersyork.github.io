@@ -41,7 +41,7 @@ Comparing main ministerial departments to their shadow counterparts
 
 
 
-![]({{site.url}}/_posts/twitter_analysis_files/figure-markdown_github/facet_plot-1.png)
+![party-mood]({{site.url}}/assets/party-mood.png)
 
 
 
