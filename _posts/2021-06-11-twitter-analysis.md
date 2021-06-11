@@ -1,5 +1,5 @@
 ---
-title: "The Positivity of Ministers Tweets"
+title: "The Positivity of Minister's Tweets"
 layout: default
 permalink: blogs/tweet_sentiment
 ---
@@ -14,6 +14,8 @@ body {
   font-size: 18px;
 }
 </style>
+
+# The Positivity of Minister's Tweets
 
 ![party mood]({{ site.url }}/img/galleries/gallery-twitter-analysis/party-mood.png)
 
