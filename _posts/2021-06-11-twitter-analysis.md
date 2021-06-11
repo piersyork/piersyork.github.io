@@ -41,7 +41,7 @@ Comparing main ministerial departments to their shadow counterparts
 
 
 
-![party-mood]({{site.url}}/assets/party-mood.png)
+![party mood]({{ site.url }}/assets/party-mood.png)
 
 
 
