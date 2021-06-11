@@ -1,24 +1,28 @@
-# Place author information here. Available element are:
-# -
-#   id: someone //--> this is important!
-#   name: Some Person //--> optional
-#   avatar: /profile-pic.jpg //--> optinal, you can define a default avatar
-#   bio: this is some more information about the author. //--> optional as well, but pretty nice to have
-#   facebook: https://www.facebook.com/someone //--> optional
-#   twitter: https://twitter.com/someone //--> optional
-#   instagram: http://instagram.com/someone //--> optional
-#   email: someone@something.com //--> optional
+# Authors
 
--
-  id: someone
-  name: Some Person
-  avatar: /profile-pic.jpg
-  bio: this is some more information about the author.
-  facebook: https://www.facebook.com/someone
-  twitter: https://twitter.com/someone
-  instagram: http://instagram.com/someone
-  email: someone@something.com
--
-  id: person
-  avatar: /profile-pic.jpg
-  bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, quidem.
+Billy Rick:
+  name        : "Billy Rick"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Cornelius Fiddlebone:
+  name        : "Cornelius Fiddlebone"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
