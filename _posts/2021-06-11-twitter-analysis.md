@@ -26,7 +26,7 @@ body {
 | Tory   | NA       |  4467 | 19.10 |
 
 
-![party mood]({{ site.url }}/assets/party-mood.png)
+![party mood]({{ site.url }}/img/galleries/gallery-twitter-analysis/party-mood.png)
 
 Boris Johnson is consitently more positive than Keir Starmer. But this
 is really to be expected. In some ways Boris Johnson uses twitter in a
@@ -41,15 +41,15 @@ Comparing main ministerial departments to their shadow counterparts
 
 
 
-![cabinet mood]({{ site.url }}/assets/cabinet_sentiment.png)
+![cabinet mood]({{ site.url }}/img/galleries/gallery-twitter-analysis/cabinet_sentiment.png)
 
 
 
-![scandals]({{ site.url }}/assets/scandals.png)
+![scandals]({{ site.url }}/img/galleries/gallery-twitter-analysis/scandals.png)
 
 
 
-![popularity]({{ site.url }}/assets/popularity_model.png)
+![popularity]({{ site.url }}/img/galleries/gallery-twitter-analysis/popularity_model.png)
 Perhaps this says more about Labour’s twitter followers than it does
 about the effectiveness of negativity for the Labour party’s popularity.
 <br/><br/><br/><br/>
