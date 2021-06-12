@@ -17,11 +17,11 @@ widget2:
   url: '/about/'
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-# widget3:
-#   title: "Download Theme"
-#   url: 'https://github.com/Phlow/feeling-responsive'
-#   image: widget-github-303x182.jpg
-#   text: ''
+widget3:
+  title: "University Work & Research"
+  url: '/info/' # this will need to be updated with new url
+  image: widget-github-303x182.jpg
+  text: "Essays I've written on Philosophy and Public Policy""
 #
 # Use the call for action to show a button on the frontpage
 #
