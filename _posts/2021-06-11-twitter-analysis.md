@@ -1,7 +1,7 @@
 ---
 title: "The Positivity of Ministers Tweets"
 layout: default
-permalink: blogs/tweet_sentiment
+permalink: single
 ---
 
 <style type="text/css">
