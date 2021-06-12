@@ -18,7 +18,7 @@ tags:
 header: no
 image:
     title: sentiment-plots/party-mood.png
-    thumb: sentiment-plots/party-mood.png
+    thumb: sentiment-plots/party-sentiment.png
     homepage: sentiment-plots/party-mood.png
 
 mediaplayer: true
