@@ -10,17 +10,17 @@ layout: frontpage
 widget1:
   title: "Blog"
   url: '/blog/'
-  image: sentiment-plots/party_sentiment.png
+  #image: sentiment-plots/party_sentiment.png
   text: 'Blogs on policy issues and statistical analysis.'
 widget2:
   title: "More about me"
   url: '/about/'
   text: ''
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  #video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "University Work & Research"
   url: '/info/' # this will need to be updated with new url
-  image: widget-github-303x182.jpg
+  #image: widget-github-303x182.jpg
   text: "Essays I've written on Philosophy and Public Policy"
 #
 # Use the call for action to show a button on the frontpage
