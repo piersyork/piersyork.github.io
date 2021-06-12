@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "More about me"
   url: '/about/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: ''
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "University Work & Research"
@@ -31,6 +31,7 @@ widget3:
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
+#widget 2 original   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 #
 callforaction:
   url: https://tinyletter.com/feeling-responsive
