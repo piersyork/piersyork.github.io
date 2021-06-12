@@ -1,4 +1,9 @@
-- menu_name: "Dankeschön"
+- menu_name: "Website Credit to:"
+
+- name: "Phlow"
+  url: "http://phlow.de/"
+  class: "network-entypo"
+  title: "Website framework by Phlow"
 
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
