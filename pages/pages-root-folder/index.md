@@ -10,7 +10,7 @@ layout: frontpage
 widget1:
   title: "Blog"
   url: '/blog/'
-  image: <a href="#"><img src="/assets/img/sentiment-plots/party_sentiment.png" width="302" height="182"/></a> 
+  image: party_sentiment.png
   text: 'Blogs on policy issues and statistical analysis.'
 widget2:
   title: "More about me"
