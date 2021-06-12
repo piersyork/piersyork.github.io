@@ -1,5 +1,4 @@
 ---
-
 layout: page
 #
 # Content
@@ -23,16 +22,6 @@ header: no
 
 mediaplayer: true
 ---
-
-| party  | positive |     n |  prop |
-|:-------|:---------|------:|------:|
-| Labour | 0        | 10290 | 40.24 |
-| Labour | 1        | 10785 | 42.17 |
-| Labour | NA       |  4498 | 17.59 |
-| Tory   | 0        |  3993 | 17.07 |
-| Tory   | 1        | 14927 | 63.83 |
-| Tory   | NA       |  4467 | 19.10 |
-
 
 ![party mood]({{ site.urlimg }}sentiment-plots/party-mood.png)
 
