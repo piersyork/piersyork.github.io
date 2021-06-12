@@ -25,15 +25,7 @@ mediaplayer: true
 ---
 
 
-
-Boris Johnson is consitently more positive than Keir Starmer. But this
-is really to be expected. In some ways Boris Johnson uses twitter in a
-different manner to Keir Starmer. Boris generally uses it in the context
-of his position in the Government, reporting the actions of his
-Government and painting those actions in a positive light. Keir Starmer
-on the other hand is spending his time trying to convince people that
-the Government is doing a bad job at running a country and that people
-should vote Labour in the next election.
+Analysis of twitter data shows that the sentiment of the current Government minister's tweets over the pandemic are consistently more positive than their shadow counterparts and only a small fraction of their tweets are negative. This is not wholly surprising - Government ministers want to make it seem as though they are doing an excellent job and also over the course of the pandemic would have wanted to reassure the public. The shadow minister's on the other hand try to do almost the opposite - they want to convince the public that the Government is doing a terrible job and that they would do a much better job if they were voted for in the next election.
 
 Comparing main ministerial departments to their shadow counterparts
 
