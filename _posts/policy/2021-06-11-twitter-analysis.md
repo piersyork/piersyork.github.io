@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "Sentiment Analysis"
+#subheadline: "Sentiment Analysis"
 title: "The Positivity of Ministers Tweets"
 teaser: "A sentiment analysis of ministers and shadow ministers tweets."
 categories:
