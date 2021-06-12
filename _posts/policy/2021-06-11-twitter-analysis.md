@@ -16,9 +16,10 @@ tags:
 # Styling
 #
 header: no
-# image:
-#     title: sentiment-plots/party-mood.png
-#     thumb: sentiment-plots/party-mood.png
+image:
+    title: sentiment-plots/party-mood.png
+    thumb: sentiment-plots/party-mood.png
+    homepage: sentiment-plots/party-mood.png
 
 mediaplayer: true
 ---
