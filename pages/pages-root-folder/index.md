@@ -21,7 +21,7 @@ widget3:
   title: "University Work & Research"
   url: '/info/' # this will need to be updated with new url
   image: widget-github-303x182.jpg
-  text: "Essays I've written on Philosophy and Public Policy""
+  text: "Essays I've written on Philosophy and Public Policy"
 #
 # Use the call for action to show a button on the frontpage
 #
