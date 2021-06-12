@@ -14,18 +14,6 @@ tags:
 header: no
 ---
 
-<style type="text/css">
-.main-container {
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-}
-body {
-  font-size: 18px;
-}
-</style>
-
-
 | party  | positive |     n |  prop |
 |:-------|:---------|------:|------:|
 | Labour | 0        | 10290 | 40.24 |
