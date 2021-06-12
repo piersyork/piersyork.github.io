@@ -36,7 +36,7 @@ body {
 | Tory   | NA       |  4467 | 19.10 |
 
 
-![party mood]({{ site.url }}/sentiment-plots/party-mood.png)
+![party mood]({{ site.url }}sentiment-plots/party-mood.png)
 
 Boris Johnson is consitently more positive than Keir Starmer. But this
 is really to be expected. In some ways Boris Johnson uses twitter in a
