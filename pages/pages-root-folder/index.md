@@ -33,11 +33,11 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #widget 2 original   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
-permalink: /index.html
+# callforaction:
+#   url: https://tinyletter.com/feeling-responsive
+#   text: Inform me about new updates and features ›
+#   style: alert
+# permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
