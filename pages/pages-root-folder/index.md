@@ -11,7 +11,7 @@ widget1:
   title: "Blog"
   url: '/blog/'
   image: party_sentiment.png
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Blogs on policy issues and statistical analysis.'
 widget2:
   title: "More about me"
   url: '/about/'
