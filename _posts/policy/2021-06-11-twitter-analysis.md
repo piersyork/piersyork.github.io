@@ -51,15 +51,15 @@ Comparing main ministerial departments to their shadow counterparts
 
 
 
-![cabinet mood]({{ site.url }}assets/img/sentiment-plots/cabinet_sentiment.png)
+![cabinet mood]({{ site.urlimg }}sentiment-plots/cabinet_sentiment.png)
 
 
 
-![scandals]({{ site.url }}/sentiment-plots/scandals.png)
+![scandals]({{ site.urlimg }}/sentiment-plots/scandals.png)
 
 
 
-![popularity]({{ site.url }}/sentiment-plots/popularity_model.png)
+![popularity]({{ site.urlimg }}/sentiment-plots/popularity_model.png)
 Perhaps this says more about Labour’s twitter followers than it does
 about the effectiveness of negativity for the Labour party’s popularity.
 <br/><br/><br/><br/>
