@@ -6,7 +6,7 @@
 #
 layout: frontpage
 title: Piers York
-permalink: /
+permalink: "/"
 # header:
 #   image_fullwidth: header_unsplash_12.jpg
 widget1:
