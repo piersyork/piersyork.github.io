@@ -42,7 +42,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 
 
 # Logo size is 600x80 pixels
-#logo: "logo.png"
+logo: "logo.png"
 
 # Plugins
 plugins:
