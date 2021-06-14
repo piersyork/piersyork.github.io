@@ -17,13 +17,14 @@ tags:
 #
 header: no
 image:
-    title: sentiment-plots/party-mood.png
+    #title: sentiment-plots/party-mood.png
     thumb: sentiment-plots/party-sentiment.png
     #homepage: sentiment-plots/party-mood.png
 
 mediaplayer: true
 ---
 
+![party mood]({{ site.urlimg }}sentiment-plots/party_mood.png)
 
 Analysis of twitter data shows that the sentiment of current Government ministers' tweets over the pandemic are consistently more positive than their shadow counterparts with only a fraction of their tweets being negative. This is not wholly surprising - Government ministers want to make it seem as though they are doing an excellent job and over the course of the pandemic have tried to offer reassurance to the public. The shadow ministers on the other hand try to do almost the opposite - they want to convince the public that the Government is doing a terrible job and that they would do a much better job if they were voted for in the next election.
 
