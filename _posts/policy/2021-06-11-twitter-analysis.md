@@ -5,7 +5,7 @@ layout: page
 #
 #subheadline: "Sentiment Analysis"
 title: "The Positivity of Ministers Tweets"
-teaser: "A sentiment analysis of ministers and shadow ministers tweets."
+#teaser: "A sentiment analysis of ministers and shadow ministers tweets."
 categories:
   - policy
 tags:
