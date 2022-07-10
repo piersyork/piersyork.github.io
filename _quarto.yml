@@ -8,8 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: About Me
-        file: about.qmd
       - text: Software
         file: packages.qmd
       - text: Data blog
