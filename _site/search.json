@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Piers York",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "packages.html",
+    "href": "packages.html",
+    "title": "R Packages",
+    "section": "",
+    "text": "An R package that imports data from Our World in Data into the R environment."
+  },
+  {
+    "objectID": "blog/posts/testing/index.html",
+    "href": "blog/posts/testing/index.html",
+    "title": "Testing",
+    "section": "",
+    "text": "This is a test of a qmd file containing no code."
+  },
+  {
+    "objectID": "blog/posts/testing-r-code/index.html#test-one",
+    "href": "blog/posts/testing-r-code/index.html#test-one",
+    "title": "Testing R Code",
+    "section": "Test one",
+    "text": "Test one\nThis is a test"
+  },
+  {
+    "objectID": "blog/posts/testing-r-code/index.html#test-two",
+    "href": "blog/posts/testing-r-code/index.html#test-two",
+    "title": "Testing R Code",
+    "section": "Test two",
+    "text": "Test two\nThis post includes R code\n\n\n\n\n\n\n349871985, -0.13534160609779056"
+  }
+]
