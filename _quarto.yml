@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Piers York"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: About Me
+        file: about.qmd
+      - text: Software
+        file: packages.qmd
+      - text: Data blog
+        href: blog/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/piersyork
+      - icon: linkedin
+        href: https://www.linkedin.com/in/piers-york/
+
+format:
+  html:
+    theme: morph
+    css: styles.css
+    toc: true
+
+
+
