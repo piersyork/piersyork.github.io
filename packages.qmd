@@ -1,9 +1,14 @@
 ---
 title: "R Packages"
-description: "Info on the R packages that I have developed and in development."
-author: "Piers York"
-date: "2022-07-10"
+description: "These are the R packages that I've developed and currently developing. You can find the source code and installation instructions on my github page."
+toc: false
 ---
 
-## owidR
-An R package that imports data from Our World in Data into the R environment.
+## [owidR](https://github.com/piersyork/owidR)
+This package imports data from [Our World in Data](https://ourworldindata.org) into the R environment. Our World in Data collect and publish hundreds of country level datasets on economic and social issues. owidR makes it easy to search through these datasets, load them into R and quickly visualise the data. You can download owidR from CRAN using `install_packages("owidR")`. Here is an example using data on democracy:
+
+## [statexplore](https://github.com/piersyork/statxplore)
+This packages imports data from the Department for Work and Pensions' [statXplore](https://stat-xplore.dwp.gov.uk/) repository of published statistics on pensions and benefits. This package is currently in the early stages of development and not yet published on CRAN.
+
+## [ukmap](https://github.com/piersyork/ukmap)
+This package is a wrapper around the Office for National Statistics' [geospatial API](https://statistics.data.gov.uk/home). It is currently experimental but allows for the easy importing of geospatial data into R of class `sf`. At the moment the API only allows fetching of the most recent UK geography data. 

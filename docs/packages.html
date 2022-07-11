@@ -6,9 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Piers York">
-<meta name="dcterms.date" content="2022-07-10">
-<meta name="description" content="Info on the R packages that I have developed and in development.">
+<meta name="description" content="These are the R packages that I’ve developed and currently developing. You can find the source code and installation instructions on my github page.">
 
 <title>Piers York - R Packages</title>
 <style>
@@ -61,7 +59,7 @@ ul.task-list{list-style: none;}
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -106,15 +104,7 @@ ul.task-list{list-style: none;}
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#owidr" id="toc-owidr" class="nav-link active" data-scroll-target="#owidr">owidR</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -125,26 +115,14 @@ ul.task-list{list-style: none;}
 
 <div>
   <div class="description">
-    Info on the R packages that I have developed and in development.
+    These are the R packages that I’ve developed and currently developing. You can find the source code and installation instructions on my github page.
   </div>
 </div>
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Piers York </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">July 10, 2022</p>
-    </div>
-  </div>
     
   </div>
   
@@ -152,8 +130,16 @@ ul.task-list{list-style: none;}
 </header>
 
 <section id="owidr" class="level2">
-<h2 class="anchored" data-anchor-id="owidr">owidR</h2>
-<p>An R package that imports data from Our World in Data into the R environment.</p>
+<h2 class="anchored" data-anchor-id="owidr"><a href="https://github.com/piersyork/owidR">owidR</a></h2>
+<p>This package imports data from <a href="https://ourworldindata.org">Our World in Data</a> into the R environment. Our World in Data collect and publish hundreds of country level datasets on economic and social issues. owidR makes it easy to search through these datasets, load them into R and quickly visualise the data. You can download owidR from CRAN using <code>install_packages("owidR")</code>. Here is an example using data on democracy:</p>
+</section>
+<section id="statexplore" class="level2">
+<h2 class="anchored" data-anchor-id="statexplore"><a href="https://github.com/piersyork/statxplore">statexplore</a></h2>
+<p>This packages imports data from the Department for Work and Pensions’ <a href="https://stat-xplore.dwp.gov.uk/">statXplore</a> repository of published statistics on pensions and benefits. This package is currently in the early stages of development and not yet published on CRAN.</p>
+</section>
+<section id="ukmap" class="level2">
+<h2 class="anchored" data-anchor-id="ukmap"><a href="https://github.com/piersyork/ukmap">ukmap</a></h2>
+<p>This package is a wrapper around the Office for National Statistics’ <a href="https://statistics.data.gov.uk/home">geospatial API</a>. It is currently experimental but allows for the easy importing of geospatial data into R of class <code>sf</code>. At the moment the API only allows fetching of the most recent UK geography data.</p>
 
 
 </section>

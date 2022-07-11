@@ -11,7 +11,7 @@
     "href": "packages.html",
     "title": "R Packages",
     "section": "",
-    "text": "An R package that imports data from Our World in Data into the R environment."
+    "text": "This package imports data from Our World in Data into the R environment. Our World in Data collect and publish hundreds of country level datasets on economic and social issues. owidR makes it easy to search through these datasets, load them into R and quickly visualise the data. You can download owidR from CRAN using install_packages(\"owidR\"). Here is an example using data on democracy:"
   },
   {
     "objectID": "blog/posts/testing/index.html",
@@ -33,5 +33,26 @@
     "title": "Testing R Code",
     "section": "Test two",
     "text": "Test two\nThis post includes R code\n\n\n\n\n\n\n349871985, -0.13534160609779056"
+  },
+  {
+    "objectID": "packages.html#section",
+    "href": "packages.html#section",
+    "title": "R Packages",
+    "section": "[]",
+    "text": "[]"
+  },
+  {
+    "objectID": "packages.html#statexplore",
+    "href": "packages.html#statexplore",
+    "title": "R Packages",
+    "section": "statexplore",
+    "text": "statexplore\nThis packages imports data from the Department for Work and Pensions’ statXplore repository of published statistics on pensions and benefits. This package is currently in the early stages of development and not yet published on CRAN."
+  },
+  {
+    "objectID": "packages.html#ukmap",
+    "href": "packages.html#ukmap",
+    "title": "R Packages",
+    "section": "ukmap",
+    "text": "ukmap\nThis package is a wrapper around the Office for National Statistics’ geospatial API. It is currently experimental but allows for the easy importing of geospatial data into R of class sf. At the moment the API only allows fetching of the most recent UK geography data."
   }
 ]
