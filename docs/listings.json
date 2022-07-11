@@ -1,9 +1,6 @@
 [
   {
     "listing": "/blog/index.html",
-    "items": [
-      "/blog/posts/testing/index.html",
-      "/blog/posts/testing-r-code/index.html"
-    ]
+    "items": []
   }
 ]

@@ -4,6 +4,8 @@ description: "Checking how r code runs inside a blog post"
 author: "Piers York"
 date: "2022-07-10"
 echo: false
+toc: false
+draft: true
 ---
 
 ```{r}
