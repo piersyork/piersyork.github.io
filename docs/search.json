@@ -14,13 +14,6 @@
     "text": "This package imports data from Our World in Data into the R environment. Our World in Data collect and publish hundreds of country level datasets on economic and social issues. owidR makes it easy to search through these datasets, load them into R and quickly visualise the data. You can download owidR from CRAN using install_packages(\"owidR\"). Here is an example using data on democracy:"
   },
   {
-    "objectID": "packages.html#section",
-    "href": "packages.html#section",
-    "title": "R Packages",
-    "section": "[]",
-    "text": "[]"
-  },
-  {
     "objectID": "packages.html#statexplore",
     "href": "packages.html#statexplore",
     "title": "R Packages",
