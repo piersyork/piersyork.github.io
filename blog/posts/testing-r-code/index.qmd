@@ -19,7 +19,7 @@ my_theme <- function() {
     theme(axis.title = element_blank(), text = element_text(size = 20), plot.title = element_text(size = 34), 
           plot.background = element_rect(fill = "#F0F6FF", colour = "#718199"))
 } 
-theme_set(my_theme()) 
+theme_set(my_theme())
 
 human_rights <- owid("human-rights-scores", rename = "rights")
 

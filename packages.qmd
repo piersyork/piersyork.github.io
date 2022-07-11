@@ -1,14 +1,85 @@
 ---
 title: "R Packages"
-description: "These are the R packages that I've developed and currently developing. You can find the source code and installation instructions on my github page."
-toc: false
+description: "These are the R packages that I've developed or currently developing. You can find the source code and installation instructions on my github page."
+toc: true
+toc-location: left
 ---
+
+```{r}
+#| echo: false
+#| message: false
+library(ggplot2)
+library(owidR)
+library(statxplore)
+library(ukmap)
+
+my_theme <- function() {
+    theme_owid(import_fonts = FALSE) + 
+    theme(axis.title = element_blank(), text = element_text(size = 20), plot.title = element_text(size = 34), 
+          plot.background = element_rect(fill = "#F0F6FF", colour = "#718199"), legend.position = "none")
+} 
+
+theme_set(my_theme())
+```
+
 
 ## [owidR](https://github.com/piersyork/owidR)
 This package imports data from [Our World in Data](https://ourworldindata.org) into the R environment. Our World in Data collect and publish hundreds of country level datasets on economic and social issues. owidR makes it easy to search through these datasets, load them into R and quickly visualise the data. You can download owidR from CRAN using `install_packages("owidR")`. Here is an example using data on democracy:
 
+```{r}
+# search for dataset titles that begin with 'liberal democracy'
+owid_search("^liberal democracy")
+
+# let's use the liberal democracy data from varieties of democracy
+lib_democ <- owid("liberal-democracy")
+
+lib_democ
+
+```
+
+
 ## [statexplore](https://github.com/piersyork/statxplore)
-This packages imports data from the Department for Work and Pensions' [statXplore](https://stat-xplore.dwp.gov.uk/) repository of published statistics on pensions and benefits. This package is currently in the early stages of development and not yet published on CRAN.
+This packages imports data from the Department for Work and Pensions' [statXplore](https://stat-xplore.dwp.gov.uk/) repository of published statistics on pensions and benefits. This package is currently in the early stages of development and not yet published on CRAN. Here is an example:
+
+```{r}
+#| eval: false
+API_KEY <- "YOUR_API_KEY"
+
+pip_regs_age <- start_query("Personal Independence Payment", "PIP Registrations", API_KEY) |>
+  add_measure("PIP Registrations") |>
+  add_fields(c("Month", "Age (bands and single year)")) |>
+  fetch()
+
+pip_regs_age
+```
+
+```{r}
+#| echo: false
+#| warning: false
+API_KEY <- readLines(".statX_key.txt")
+
+pip_regs_age <- start_query("Personal Independence Payment", "PIP Registrations", API_KEY) |>
+  add_measure("PIP Registrations") |>
+  add_fields(c("Month", "Age (bands and single year)")) |>
+  fetch()
+
+pip_regs_age
+```
+
+
 
 ## [ukmap](https://github.com/piersyork/ukmap)
 This package is a wrapper around the Office for National Statistics' [geospatial API](https://statistics.data.gov.uk/home). It is currently experimental but allows for the easy importing of geospatial data into R of class `sf`. At the moment the API only allows fetching of the most recent UK geography data. 
+
+
+```{r}
+#| results: 'hide'
+#| warning: false
+# get map data for london boroughs
+london <- uk_codes("E09") |> 
+  uk_map()
+
+# use the tmap package to easily see what the map data looks like
+tmap::qtm(london)
+```
+
