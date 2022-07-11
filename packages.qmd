@@ -38,7 +38,7 @@ lib_democ
 ```
 
 
-## [statexplore](https://github.com/piersyork/statxplore)
+## [statxplore](https://github.com/piersyork/statxplore)
 This packages imports data from the Department for Work and Pensions' [statXplore](https://stat-xplore.dwp.gov.uk/) repository of published statistics on pensions and benefits. This package is currently in the early stages of development and not yet published on CRAN. Here is an example:
 
 ```{r}
