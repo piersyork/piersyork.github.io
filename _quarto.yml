@@ -17,6 +17,17 @@ website:
         href: https://github.com/piersyork
       - icon: linkedin
         href: https://www.linkedin.com/in/piers-york/
+  
+  page-footer: 
+    left: "&#169; Copyright 2022, Piers York"
+    right: 
+      - icon: github
+        href: https://github.com/piersyork
+      - icon: linkedin
+        href: https://www.linkedin.com/in/piers-york/
+      - icon: twitter
+        href: https://twitter.com/piers_york
+    background: light
 
 format:
   html:
