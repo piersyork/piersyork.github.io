@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Previously, I studied Public Policy at UCL where I studied modules in quantitative and qualitative research methods, public sector economics and policy evaluation. My dissertation used random effects modelling to estimate the effect of interpersonal trust on governments’ response to the Covid-19 pandemic.\nI have a passion for data, programming and machine learning, projects I’ve worked on include: detecting students cheating in exams (for a UK university) and a personal project predicting the outcomes of formula 1 races (which included using web scraping to gather the data and machine learning models for prediction). I have also written an R package for importing data from Our World in Data and I’m currently working on the development of other R packages."
+    "text": "Previously, I studied Public Policy at UCL where I took modules in quantitative and qualitative research methods, public sector economics and policy evaluation. My dissertation used random effects modelling to estimate the effect of interpersonal trust on governments’ response to the Covid-19 pandemic.\nI have a passion for data, programming and machine learning, projects I’ve worked on include: detecting students cheating in exams (for a UK university) and a personal project predicting the outcomes of formula 1 races (which included using web scraping to gather the data and machine learning models for prediction). I have also written an R package for importing data from Our World in Data and I’m currently working on the development of other R packages."
   },
   {
     "objectID": "packages.html#owidr",

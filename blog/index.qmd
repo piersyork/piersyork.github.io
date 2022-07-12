@@ -1,13 +1,11 @@
 ---
 title: Data Blog
-subtitle: Insights from interesting data
+subtitle: Insights from interesting data (coming soon)
 listing:
   sort: "date desc"
   contents: "posts"
   sort-ui: false
   filter-ui: false
 page-layout: full
-# title-block-banner: "#EDF3F9"
-# title-block-banner-color: body
 search: false
 ---

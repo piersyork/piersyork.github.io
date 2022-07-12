@@ -3,6 +3,7 @@ title: "R Packages"
 description: "These are the R packages that I've developed or currently developing. You can find the source code and installation instructions on my github page."
 toc: true
 toc-location: left
+freeze: auto
 ---
 
 ```{r}
